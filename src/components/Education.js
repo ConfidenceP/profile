@@ -32,7 +32,7 @@ class Education extends Component {
                                 <tr>
                                     <td>Bachelor of Science - International Marketing</td>
                                     <td>Chinhoyi University of Technology</td>
-                                    <td>Jan 2018 - May 2020</td>
+                                    <td>Aug 2010 - June 2014</td>
                                 </tr>
                             </tbody>
                         </table>
