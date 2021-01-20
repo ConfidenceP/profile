@@ -34,7 +34,7 @@ class Profile extends Component {
                             <td onClick={()=> window.open('https://www.instagram.com/confidencep_m/')}>
                                 <i className='fab fa-instagram grey-text text-darken-4 social-style'></i>
                             </td>
-                            <td onClick={()=> window.open('https://github.com/ConfidenceP/')}>
+                            <td onClick={()=> window.open('https://github.com/confidencepm')}>
                                 <i className='fab fa-github grey-text text-darken-4 social-style'></i>
                             </td>
                             <td onClick={()=> window.open('https://www.linkedin.com/in/confidence-mukwindidza-93b59847/')}>

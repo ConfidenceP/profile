@@ -23,7 +23,7 @@ class Experience extends Component {
                                         <strong>JUNIOR SOFTWARE ENGINEER</strong>
                                     </h6>
                                     <p>
-                                        In this role I was in a team responsible of designing, developing, testing and
+                                        In this role I was in a team responsible for designing, developing, testing and
                                         maintaining features and components of a donor management web application. I
                                         worked with tools and technologies including <strong>Java Core, Java EE 8
                                         (e.g. Jax-RS, JSF, JSP, JPA, JUnit), JBoss - WildFly, Maven, PrimeFaces,

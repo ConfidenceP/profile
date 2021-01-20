@@ -11,8 +11,8 @@ export default class About extends Component {
                         </h6>
                         <p>
                             Confidence is a Software Developer with interest biased towards Java and it's related technologies. Of
-                            recent, I started exploring ReactJs and I am falling in love with the framework. I still
-                            have a special place in my heart for Digital Marketing technologies. Sometimes I create and
+                            recent, I have been exploring ReactJs and I have fallen in love with the framework. I still
+                            hold a special place in my heart for Digital Marketing technologies. Sometimes I create and
                             manage WordPress sites and social media pages for amazing people. I also love chess, music
                             and coffee.
                         </p>
